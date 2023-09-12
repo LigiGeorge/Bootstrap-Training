@@ -1,0 +1,5 @@
+Bootstrap Learning -Daily Report
+
+Date - 12/09/2023
+Hours - 4
+Topics Covered - Introduction,Layout,Colors,Borders,Margin-Padding,Text class,Components,Icons,Create a Website
